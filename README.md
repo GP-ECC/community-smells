@@ -10,7 +10,7 @@ The data is presented in CSV format and can be directly imported in R and Weka.
 
 ```Dataset-community-smells-list.csv```: The list of projects with their identified smells.
 .
-#### Developer Social Network metrics  
+#### Developer Contributions metrics  
 
 ```NoD ```: Number of developers
 
@@ -38,7 +38,7 @@ The data is presented in CSV format and can be directly imported in R and Weka.
 ```ND``` : Network Density
 
 
-#####  Community metrics 
+####  Community metrics 
 
 ```NC``` : Number of communities
 

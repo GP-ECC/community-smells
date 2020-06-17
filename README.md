@@ -1,8 +1,25 @@
-This repository is a companion page for our submission "On the Detection of Community Smells using Genetic Programming-based Ensemble Classifier Chain".
+
+## On the Detection of Community Smells using Genetic Programming-based Ensemble Classifier Chain
+
+This repository is a companion page for our ICGSE 2020 paper "On the Detection of Community Smells using Genetic Programming-based Ensemble Classifier Chain".
 
 It contains all the material required to replicate our analysis, including (i) the raw input data (ii) the list of studied projects, and (iii) the features for each smell instance. Some additional data are not included in the paper due to space limitations, are also provided.
 
-### Data description : 
+## How to cite?
+
+Please, use the following bibtex entry:
+
+```
+@inproceedings{almarimi2020community,
+  title={On the Detection of Community Smells using Genetic Programming-based Ensemble Classifier Chain},
+  author={Almarimi, Nuri and Ouni, Ali and Chouchen, Moataz and Saidani, Islem and Mkaouer, Mohamed Wiem},
+  booktitle={15th IEEE/ACM International Conference on Global Software Engineering (ICGSE)},
+  pages={1--12},
+  year={2020}
+}
+```
+
+## Data description : 
 The data is presented in CSV format and can be directly imported in R and Weka.
 
 
